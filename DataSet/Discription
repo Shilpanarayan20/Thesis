@@ -1,0 +1,19 @@
+Old_Dataset - 30 Participants
+    * Each have repeated 5 times - 5 cycles 
+    * 0-9, A-Z, a-z
+    * Total Sequences = 9400 sequences
+    
+ Project_Dataset - 30 Participants
+    * Each have given 1 times - 1 cycle 
+    * 0-9, A-Z, a-z - 15 Participants
+    * 0-9, A-Z - 15 Participants
+    * Total Sequences = 1470 sequences
+    
+Thesis_Dataset - 55 Participants
+    * few have given 2-3 times - 2-3 cycles
+    * 0-9, A-Z, a-z 
+    * Total Sequences = 12090 Sequences
+    * Out of that 4030 writing sequences
+    * 8060 sequences are Not writing Sequences
+    
+    
