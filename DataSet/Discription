@@ -16,6 +16,17 @@ Thesis_Dataset - 55 Participants
     * Out of that 4030 writing sequences
     * 8060 sequences are Not writing Sequences
     
+    During Collecting the data participants were asked to perform some activities for recording 
+    not writing sequences before and in end of each letter writing
+    Acivitues Includes : 
+               * Placing object sidewise
+               * Placing object upside down
+               * Removing and wearing back there eye glasses
+               * Drinking Water
+               * Eating Snacks
+               * Scartching face, shoulder, hand,leg..
+               * Some randowm dialy movements
+    
 Labels = 0: '0', 1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7',
          8: '8', 9: '9', 10: 'A,a', 11: 'B,b', 12: 'C,c', 13: 'D,d', 14: 'E,e',
          15: 'F,f', 16: 'G,g', 17: 'H,h', 18: 'I,i', 19: 'J,j', 20: 'K,k', 21: 'L,l',
