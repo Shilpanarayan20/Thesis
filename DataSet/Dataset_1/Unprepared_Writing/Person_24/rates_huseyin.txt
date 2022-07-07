@@ -1,0 +1,14 @@
+x 1  Frank
+x 2  Ivona
+- 6  Melissa
+X 7  Javier
+8  Anirban
+10 
+------------------------------------------------------------------
+Numbers:
+1_1,1_3,
+Letters:
+i,j, l_0, l_3, p_3,q_0, q_4, x_0, x_4, z_1, z_2, z_3
+capital:
+B_3, D_1, D_4, F_0, F_3, just H_3 ok, I, J, K_0, K_1, N_1, Q_3, Q_4, R_1, R_3
+T_3, T_4

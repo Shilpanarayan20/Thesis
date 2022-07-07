@@ -1,0 +1,2 @@
+[INFO:ProgFlow -             __init__():142] Multithreading with maximum 20 threads
+[INFO:ProgFlow -    disconnect_device():788] Disconnecting Device

@@ -1,13 +1,70 @@
+Dataset_1 
+  |
+  |
+  V
+Total 100 Participants 
+
+Separate Folder for each participants 
+     |
+     |
+     V
+ Each folder Contains
+      |
+      |______  * folder Small with Small Letters (a-z)
+      |
+      |______  * folder Capital with Capital Letters (A-Z)
+      |
+      |______  * folder Numbers with Numbers (0-9) 
+
+
+
+Dataset_2
+  |
+  |
+  V
+Total 55 Participants
+
+Separate Folder for each participants
+     |
+     |
+     V
+ Each folder Contains
+      |
+      |______  * Capital, Small Letters and Numbers (0-9, A-Z, a-z)
+      |
+      |		 (Not_writing_sequence_start - writing_sequence - Not_writing_sequence_end)
+      |
+      |______  * Example data file - PersonID.Letter.sequence(Activity).csv
+					      |
+  					      |______ PersonID  = P1.....P55
+					      |
+  					      |______ Letter = 0-9, A-Z, a-z
+					      |
+  					      |______ Sequence -- * W = Writing_Sequence
+					      |                   * N1 = Not_Writing_Sequence_Start 
+					      |			  * N2 = Not_Writing_Sequence_End
+					      |
+  					      |______ Activity -- * E = Eating
+								  * M = Using Mobile
+								  * S = Scratching Head, face, hand
+								  * D = Drinking
+ 								  * OS = Placing object sidewise
+								  * OD = Placing object upside down
+								  * EG = Removing eye glasses
+								  * Random daily movements 
+
+
+   
 Old_Dataset - 30 Participants
     * Each have repeated 5 times - 5 cycles 
     * 0-9, A-Z, a-z
     * Total Sequences = 9400 sequences
     
- Project_Dataset - 30 Participants
+ Project_Dataset - 15 Participants
     * Each have given 1 times - 1 cycle 
     * 0-9, A-Z, a-z - 15 Participants
     * 0-9, A-Z - 15 Participants
-    * Total Sequences = 1470 sequences
+    * Total Sequences = 930 sequences
     
 Thesis_Dataset - 55 Participants
     * few have given 2-3 times - 2-3 cycles
@@ -15,17 +72,6 @@ Thesis_Dataset - 55 Participants
     * Total Sequences = 12090 Sequences
     * Out of that 4030 writing sequences
     * 8060 sequences are Not writing Sequences
-    
-    During Collecting the data participants were asked to perform some activities for recording 
-    not writing sequences before and in end of each letter writing
-    Acivitues Includes : 
-               * Placing object sidewise
-               * Placing object upside down
-               * Removing and wearing back there eye glasses
-               * Drinking Water
-               * Eating Snacks
-               * Scartching face, shoulder, hand,leg..
-               * Some randowm dialy movements
     
 Labels = 0: '0', 1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7',
          8: '8', 9: '9', 10: 'A,a', 11: 'B,b', 12: 'C,c', 13: 'D,d', 14: 'E,e',

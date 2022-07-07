@@ -1,0 +1,8 @@
+[INFO:ProgFlow -             __init__():141] Multithreading with maximum 20 threads
+[INFO:ProgFlow -     open_serial_port():777] Opening port COM4
+[INFO:ProgFlow -               listen():650] Serial<id=0x20536e03710, open=True>(port='COM4', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=2, xonxoff=False, rtscts=False, dsrdtr=False)
+[INFO:ProgFlow -               listen():651] Start get_line thread
+[INFO:ProgFlow -             get_line():604] Starting to Listen
+[INFO:ProgFlow - thread_finished_table_filler():625] Start Updating Graph
+[INFO:ProgFlow -    disconnect_device():768] Disconnecting Device
+[WARNING:ProgFlow -             get_line():615] Get line thread ended. stop_threads: True

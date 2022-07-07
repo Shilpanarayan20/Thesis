@@ -1,0 +1,7 @@
+[INFO:ProgFlow -             __init__():146] Multithreading with maximum 20 threads
+[INFO:ProgFlow -          mode_change():689] Changed orientation mode to: Madgwick
+[INFO:ProgFlow -     open_serial_port():951] Opening port COM4
+[INFO:ProgFlow -               listen():716] Serial<id=0x15874c92ef0, open=True>(port='COM4', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=2, xonxoff=False, rtscts=False, dsrdtr=False)
+[INFO:ProgFlow -               listen():717] Start get_line thread
+[INFO:ProgFlow -             get_line():647] Starting to Listen
+[INFO:ProgFlow - thread_finished_table_filler():668] Start Updating Graph
