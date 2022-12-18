@@ -1,49 +1,31 @@
 # Thesis
 Thesis
   |
-  |
-  V
 DataSet
   |
-  |
-  V
 Dataset_1 
   |
-  |
-  V
 Total 100 Participants 
-
+  |
 Separate Folder for each participants 
      |
-     |
-     V
  Each folder Contains
-      |
-      |______  * folder Small with Small Letters (a-z)
-      |
-      |______  * folder Capital with Capital Letters (A-Z)
-      |
-      |______  * folder Numbers with Numbers (0-9) 
+    * folder Small with Small Letters (a-z) (csv file along with the visualization of that character)
+    * folder Capital with Capital Letters (A-Z) (csv file along with the visualization of that character)
+    * folder Numbers with Numbers (0-9) (csv file along with the visualization of that character)
 
 
 
 Dataset_2
   |
-  |
-  V
 Total 55 Participants
-
+   |
 Separate Folder for each participants
      |
-     |
-     V
  Each folder Contains
-      |
-      |______  * Capital, Small Letters and Numbers (0-9, A-Z, a-z)
-      |
-      |		 (Not_writing_sequence_start - writing_sequence - Not_writing_sequence_end)
-      |
-      |______  * Example data file - PersonID.Letter.sequence(Activity).csv
+   * Capital, Small Letters and Numbers (0-9, A-Z, a-z) (csv file along with the visualization of that character)
+   *(Not_writing_sequence_start - writing_sequence - Not_writing_sequence_end)
+   * Example data file - PersonID.Letter.sequence(Activity).csv
 					      |
   					      |______ PersonID  = P1.....P55
 					      |
